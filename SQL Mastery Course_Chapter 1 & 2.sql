@@ -232,35 +232,3 @@ SELECT *
 FROM customers
 ORDER BY points DESC
 LIMIT 3; -- Remember that the limit clause always comes at the end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
