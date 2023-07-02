@@ -1,6 +1,6 @@
 -- SQL Course [Code with Mosh]
 
--- Chapter 3 [Retrieving data from a multiple tables]
+-- Chapter 3 [Retrieving data from multiple tables]
 
 -- 3.1 [Inner joins]
 
